@@ -16,3 +16,10 @@ body {
   position: relative;
   margin-top: -27%;
 }
+
+.footer {
+  background-color: white;
+  color: #4961fe;
+  text-align: center;
+  padding: 2em;
+}
